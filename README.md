@@ -1,3 +1,0 @@
-# demo project
-
-hello
